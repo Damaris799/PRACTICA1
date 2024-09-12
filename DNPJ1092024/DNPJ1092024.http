@@ -1,0 +1,6 @@
+@DNPJ1092024_HostAddress = http://localhost:5091
+
+GET {{DNPJ1092024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
